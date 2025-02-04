@@ -1,2 +1,2 @@
 [console_scripts]
-CliTool_TextToBash = CliTool_TextToBash:main
+texttobash = cli_tool:main
