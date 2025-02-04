@@ -1,0 +1,2 @@
+[console_scripts]
+CliTool_TextToBash = CliTool_TextToBash:main

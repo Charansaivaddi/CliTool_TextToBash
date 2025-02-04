@@ -1,0 +1,6 @@
+setup.py
+CliTool_TextToBash.egg-info/PKG-INFO
+CliTool_TextToBash.egg-info/SOURCES.txt
+CliTool_TextToBash.egg-info/dependency_links.txt
+CliTool_TextToBash.egg-info/entry_points.txt
+CliTool_TextToBash.egg-info/top_level.txt
